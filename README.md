@@ -7,7 +7,7 @@
 ## 🔗 Live Demo
 
 Visit the live website here:  
-👉 [bit-conference-2025.netlify.app](https://bit-ieee.netlify.app)
+👉 [bit-ieee.netlify.app](https://bit-ieee.netlify.app)
 
 ---
 
