@@ -127,7 +127,7 @@ Contributions are welcome! If you'd like to contribute:
 
 ## 👨‍💻 Author
 
-**Adarsh Paswan**
+**Waqas Jamal Siddiqui**
 
 - 🔗 GitHub: [@Adarsh130](https://github.com/wwwaqas2003)
 - 🔗 LinkedIn: [linkedin.com/in/adarsh130](https://www.linkedin.com/in/wwwaqas2003)
